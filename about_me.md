@@ -6,7 +6,7 @@ to practise the git workflow in Lab 01.
 - **Name:** Dashaun Smith-Davis
 - **Program:** Intro to Computer Science
 - **My GitHub username:** dsmithdavis2378
-- **My goal for this course:** ...
+
 
 The Lab 01 quiz on Canvas asks the rest (why you're taking the course, how the lab went).
 Answer those in Canvas - this file only needs the three lines above.
