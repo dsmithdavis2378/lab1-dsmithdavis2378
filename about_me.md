@@ -3,8 +3,8 @@
 Replace each `...` below with your own answer, then save the file. You'll use this file
 to practise the git workflow in Lab 01.
 
-- **Name:** ...
-- **Program:** ...
+- **Name:** Dashaun Smith-Davis
+- **Program:** Intro to Computer Science
 - **My GitHub username:** dsmithdavis2378
 
 The Lab 01 quiz on Canvas asks the rest (why you're taking the course, how the lab went).
